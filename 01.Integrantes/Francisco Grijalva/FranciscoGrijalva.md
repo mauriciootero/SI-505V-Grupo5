@@ -1,6 +1,6 @@
 # Francisco Leonel Grijalva Parra
 
-<img src="Francisco Grijalva.jpeg" alt="Francisco Leonel" style="width: 25%; height: auto;" />
+<img src="FranciscoGrijalva.jpeg" alt="Francisco Grijalva" style="width: 25%; height: auto;" />
 
 * Estudiante de Ingeniería de Sistemas - 5to Ciclo.
 * 19 años.
