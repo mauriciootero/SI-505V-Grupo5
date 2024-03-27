@@ -2,6 +2,7 @@
 
 <img src="FranciscoGrijalva.jpeg" alt="Francisco Grijalva" style="width: 25%; height: auto;" />
 
+- [x] Es un enfermito
 - [x] Estudiante de Ingeniería de Sistemas - 5to Ciclo.
 - [x] 19 años.
 - [x] Miembro del **Grupo 5** del curso de Diseño de Base de Datos del ciclo 24-1.
