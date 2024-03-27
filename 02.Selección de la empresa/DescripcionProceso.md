@@ -9,7 +9,7 @@ Primero,
 ## Descripción del proceso
 Proceso para la confección de prendas:
 
-<img src="DiagramaFlujo.png" alt="DiagramaDeFlujo" style="width: 100%; height: auto;"/>
+<img src="DiagramaFlujos.png" alt="DiagramaDeFlujos" style="width: 100%; height: auto;"/>
 
 
 [Selección de la empresa](SeleccionEmpresa.md)
