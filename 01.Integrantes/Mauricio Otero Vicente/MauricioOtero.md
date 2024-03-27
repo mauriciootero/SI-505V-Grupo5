@@ -1,6 +1,6 @@
 # Daniel Mauricio Otero Vicente
 
-<img src="DanielOtero.jpeg" alt="Mauricio Otero Vicente" style="width: 25%; height: auto;" />
+<img src="MauricioOtero.jpeg" alt="Mauricio Otero Vicente" style="width: 25%; height: auto;" />
 
  ## **Información:**
 - [x] Estudiante de Ingeniería de Sistemas - 5to Ciclo Relativo
