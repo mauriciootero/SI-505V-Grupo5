@@ -1,6 +1,6 @@
 # Selección de la Empresa
 
-**Empresa elegida**: TOPY TOP
+**Empresa elegida**: TOPITOP
 
 **Proceso elegido**: Confección de prendas
 
