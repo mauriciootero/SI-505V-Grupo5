@@ -1,4 +1,4 @@
-# Proyecto del Curso - Grupo 3
+# Proyecto del Curso - Grupo 5
 
 Bienvenidos al repositorio del Proyecto del Curso Diseño de Base de Datos del Grupo 5. Aquí encontrarán toda la documentación y archivos relevantes para nuestro proyecto.
 
