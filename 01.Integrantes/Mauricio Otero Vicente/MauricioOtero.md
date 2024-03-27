@@ -3,7 +3,7 @@
 <img src="MauricioOtero.jpeg" alt="Mauricio Otero Vicente" style="width: 25%; height: auto;" />
 
  ## **Información:**
-- [x] Estudiante de Ingeniería de Sistemas - 5to Ciclo Relativo
+- [x] Estudiante de Ingeniería de Sistemas - 4to Ciclo Relativo
 - [x] 19 años
 - [x] Miembro del *Grupo 5* del curso de Diseño de Bases de Datos
 
