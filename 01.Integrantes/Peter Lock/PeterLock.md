@@ -12,7 +12,7 @@
 
   * Móvil: +51 981154509
   * Correo UNI: plockb@uni.pe
-
+  * Usuario Github: [Peter22a](https://github.com/Peter22a)
 
 [Ver integrantes](../Integrantes.md)
 
