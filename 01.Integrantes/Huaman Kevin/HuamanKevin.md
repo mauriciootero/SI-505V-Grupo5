@@ -1,6 +1,6 @@
 # Kevin Huaman Yance
 
-<img src="HuamanKevin.jpeg" alt="Huaman Yance Kevin" style="width: 25%; height: auto;" />
+<img src="HuamanKevinY.jpeg" alt="Huaman Yance Kevin" style="width: 25%; height: auto;" />
 
  ## **Información:**
 - [x] Estudiante de Ingeniería de Sistemas - 4to Ciclo Relativo
