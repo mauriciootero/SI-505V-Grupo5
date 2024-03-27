@@ -2,9 +2,9 @@
 
 <img src="FranciscoGrijalva.jpeg" alt="Francisco Grijalva" style="width: 25%; height: auto;" />
 
-* Estudiante de Ingeniería de Sistemas - 5to Ciclo.
-* 19 años.
-* Miembro del **Grupo 5** del curso de Diseño de Base de Datos del ciclo 24-1.
+[x] Estudiante de Ingeniería de Sistemas - 5to Ciclo.
+[x] 19 años.
+[x] Miembro del **Grupo 5** del curso de Diseño de Base de Datos del ciclo 24-1.
 
 ## Contacto
 
