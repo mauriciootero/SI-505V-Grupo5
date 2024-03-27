@@ -1,6 +1,6 @@
 # Integrantes del grupo
 
-- [Gordillo Inocente Mikhael León](Mikhael%20Gordillo/MikhaelGordillo.md)
+- [Gordillo Inocente Mikhael León](Mikhael%20Gordillo%20Leon/MikhaelGordillo.md)
 - [Grijalva Parra Francisco Leonel](Francisco%20Grijalva/FranciscoGrijalva.md)
 - [Huaman Yance Kevin Sebastian]
 - [Loayza Segura Roger Salvador](Roger%20Loayza/RogerLoayza.md)
