@@ -2,7 +2,7 @@
 
 **Empresa elegida**: TOPY TOP
 
-**Proceso elegido**: Elaboración de prendas
+**Proceso elegido**: Confección de prendas
 
 **Contacto y su cargo**: Rolando Flores, Gerente de Producción
 
