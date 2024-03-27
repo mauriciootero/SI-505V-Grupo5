@@ -11,7 +11,7 @@
  ## **Contacto:**
 
   * Móvil: +51 987052172
-  * Correo UNI: daniel.oteo.v@uni.pe
+  * Correo UNI: daniel.otero.v@uni.pe
   * Usuario Github: [mauriciootero](https://github.com/mauriciootero)
 
 [Ver integrantes](../Integrantes.md)
