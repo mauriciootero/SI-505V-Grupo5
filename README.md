@@ -8,4 +8,6 @@ Bienvenidos al repositorio del Proyecto del Curso Diseño de Base de Datos del G
 
 2. [Selección de la empresa](02.Selección%20de%20la%20empresa/SeleccionEmpresa.md)
 
-3. Otra sección
+3. [Entrevistas](03.Entrevistas/Entrevistas.md)
+   
+4. Otra sección
