@@ -6,7 +6,7 @@
 
 **Contacto y su cargo**: Rolando Flores, Gerente de Producción
 
-## Más
+## Otros aparcados
 
 1. [Acerca de Empresa](AcercaEmpresa.md)
 
