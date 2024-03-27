@@ -11,7 +11,7 @@
  ## **Contacto:**
 
   * Móvil: +51 986840222
-  * Correo UNI: huaman.yance.k@uni.pe
+  * Correo UNI: Kevin.Huaman.y@uni.pe
   * Usuario Github: [Kevin10hL](https://github.com/Kevin10h)
 
 [Ver integrantes](../Integrantes.md)
