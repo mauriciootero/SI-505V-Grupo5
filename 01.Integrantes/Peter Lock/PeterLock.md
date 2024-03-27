@@ -12,7 +12,6 @@
 
   * Móvil: +51 981154509
   * Correo UNI: plockb@uni.pe
-  * Correo Personal: peterlockbranez@gmail.com
 
 
 [Ver integrantes](../Integrantes.md)
