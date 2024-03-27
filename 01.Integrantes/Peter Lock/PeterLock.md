@@ -1,6 +1,6 @@
 # Peter Lock
 
-<img src="PeterLock.png" alt="Peter Lock" style="width: 25%; height: auto;" />
+<img src="PeterLock.jpeg" alt="Peter Lock" style="width: 25%; height: auto;" />
 
  ## **Información:**
 - [x] Estudiante de Ingeniería de Sistemas - 7to Ciclo Relativo
