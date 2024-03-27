@@ -15,6 +15,6 @@
   * Correo Personal: peterlockbranez@gmail.com
 
 
-[Ver integrantes](../integrantes.md)
+[Ver integrantes](../Integrantes.md)
 
 [Regresar al índice](../../README.md)
