@@ -12,7 +12,7 @@
 
   * Móvil: +51 910522952
   * Correo UNI: r.loayza.s@uni.pe
-
+  * Usuario Github: [Eliseo125RL](https://github.com/Eliseo125RL)
 
 [Ver integrantes](../Integrantes.md)
 
