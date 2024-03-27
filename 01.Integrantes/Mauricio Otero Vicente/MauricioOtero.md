@@ -1,4 +1,4 @@
-# Daniel Mauricio Otero Grijalva
+# Daniel Mauricio Otero Vicente
 
 <img src="DanielOtero.jpeg" alt="Mauricio Otero Vicente" style="width: 25%; height: auto;" />
 
