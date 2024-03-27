@@ -10,7 +10,7 @@
 
 - **Correo Electrónico:** *francisco.grijalva.p@uni.pe*
 - **Teléfono:** _924 836 060_
-- **Usuario de Git hub:** *Grijalva1234*
+- **Usuario de Github:** *Grijalva1234*
 
 [Ver integrantes](../Integrantes.md)
 
