@@ -4,7 +4,7 @@
 
 **Proceso elegido**: Proceso
 
-**Contacto y su cargo**: 
+**Contacto y su cargo**: Rolando Flores, Gerente de Producción
 
 ## Más
 
