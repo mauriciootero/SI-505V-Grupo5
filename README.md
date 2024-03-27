@@ -4,8 +4,8 @@ Bienvenidos al repositorio del Proyecto del Curso Diseño de Base de Datos del G
 
 ## Índice
 
-1. [Integrantes del grupo](01.Integrantes/integrantes.md)
+1. [Integrantes del grupo](01.Integrantes/Integrantes.md)
 
-2. [Selección de la empresa](02.Selección%20de%20la%20empresa/seleccion_empresa.md)
+2. [Selección de la empresa](02.Selección%20de%20la%20empresa/Seleccion_empresa.md)
 
 3. Otra sección
