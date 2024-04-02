@@ -26,9 +26,9 @@ El Módulo de Selección de Herramientas y Maquinarias es fundamental para garan
 4. Seguridad y Ergonomía:
   Los operarios deben considerar la seguridad al elegir herramientas.
   Evaluar si la herramienta es cómoda de usar durante largos períodos y si cumple con las normas de seguridad.
-5.Eficiencia y Productividad:
+5. Eficiencia y Productividad:
   Seleccionar herramientas que permitan una mayor eficiencia y productividad.
   Evaluar si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final.
-6.Colaboración y Retroalimentación:
+6. Colaboración y Retroalimentación:
   Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes situaciones.
   La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo.
