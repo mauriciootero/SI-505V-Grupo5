@@ -30,5 +30,4 @@ El Módulo de Selección de Herramientas y Maquinarias es fundamental para garan
   Seleccionar herramientas que permitan una mayor eficiencia y productividad.
   Evaluar si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final.
 6.Colaboración y Retroalimentación:
-  Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes        situaciones.
-  La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo.
+  Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes        situaciones.La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo.
