@@ -17,7 +17,7 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
 | 1         | Iniciar proceso de compra | Implica la identificación de necesidades, la búsqueda y evaluación de proveedores, la solicitud y evaluación de cotizaciones, la negociación y adjudicación, y finalmente, la emisión de una orden de compra al proveedor seleccionado. | Encargado de Adquisiciones |
-| 2         | Encontrar Proveedor | bb |
+| 2         | Encontrar Proveedor |  Implica la búsqueda y selección de proveedores potenciales que puedan satisfacer las necesidades de la empresa, evaluando su idoneidad, reputación y capacidad para suministrar los productos o servicios requeridos |
 | 3         | Realizar solicitud de compra| aaa | bbb |
 | 4         |Recepcion de pedidos |aa| bbb |
 | 5         | Realizacion de pedidos  | bb | bb |
