@@ -36,7 +36,7 @@ El Módulo de Selección de Herramientas y Maquinarias es fundamental para garan
   La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo.
 
 ## MÓDULO DE REGISTRO LABORAL 
-este módulo se encarga sobre gestionar de manera eficaz la mano de obra y optimizar los procesos de fabricación. este Modulo permite registrar y gesionar la información relacionada con el trabajo de los empleados en las lienas de producción de calzado, se especifica en los siguientes pasos 
+Este módulo se encarga sobre gestionar de manera eficaz la mano de obra y optimizar los procesos de fabricación. este Modulo permite registrar y gesionar la información relacionada con el trabajo de los empleados en las lienas de producción de calzado, se especifica en los siguientes pasos 
 1. registro de entrada y salida: El módulo permite registrar la hora de entrada y salida de los empleados en sus jornadas laborales. esto proporciona un seguimiento preciso del tiempo trabajanod por cada empleado
 2. monitoreo de progreso: permite monitorear el progreso de las tareas asignadas en tiempo real. los encargados de este módulo peden verificar el estado de las acividades en curso y realizar ajustes según sea necesario para garantizar que se cumpla los plazos y objetios de producción
 3. asignación de tareas y turnos: permite asignar tareas especificas a los empleados en función de sus habilidades y la disponibiidad que tienen, con esto asegura una una distribución equitativa del trabajo y una correcta asignación eficiente de recursos humanos en cada turno de producción
