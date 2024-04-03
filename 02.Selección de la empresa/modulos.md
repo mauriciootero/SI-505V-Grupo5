@@ -1,6 +1,6 @@
 # MODULOS 
 
-## MÓDULO DE ABASTECIMIENTO DEL ALMACEN AL AREA DE PRODUCCIÓN
+## MÓDULO DE ABASTECIMIENTO
 
 Este Módulo se encarga de coordinar y gestionar el flujo de materiales desde el almacen hasta las lineas de producción, asegurando que se satisfagan las necesidades de producción de manera oportuna y eficiente, el módulo consistiría en lo siguiente 
 1. Planificación de producción y gestion de inventario: este módulo comienza con la planificación de la producción y el analisis de las necesidades de materiales. se determina los niveles de inventario tanto en el almacen como en el area de producción para determinar que materiales son necesarios y a que tiempo se necesitan para que dicha             producción no se detenga 
@@ -40,7 +40,7 @@ Es una pieza fundamental para garantizar la excelencia en los productos fabricad
 5. Definición de Estándares de Calidad: Permite establecer y mantener los estándares de calidad para los productos y materiales. Esto implica definir los criterios de aceptación y rechazo, así como los procedimientos de prueba y los niveles de tolerancia para cada aspecto de la calidad.
 
 
-## MÓDULO DE PRODUCTOS QUE SE TIENE QUE LLEVAR O TRAER DEL ALMACEN
+## MÓDULO DE GESTIÓN DE PRODUCTOS
 Este modulo es esencial para garantizar un flujo eficiente de materiales dentro de la cadena de producción en la empresa Topitop. A continuación, exploraremos los aspectos clave de este módulo:
 
 1. Recepción de Productos:
@@ -62,9 +62,29 @@ Este modulo es esencial para garantizar un flujo eficiente de materiales dentro 
 
 # INTERACCIONES ENTRE LOS MODULOS
 
-## MODULOS  
+## MODULOS DE MÓDULO DE ABASTECIMIENTO CON MÓDULO DE SELECCION DE HERRAMIENTAS Y MAQUINARIAS
 
+El Módulo de Abastecimiento del Almacén al Área de Producción puede recibir solicitudes de materiales y recursos en tiempo real desde el Módulo de Selección de Herramientas y Maquinarias, en función de las necesidades de producción detectadas.
 
+## MODULOS DE MÓDULO DE REGISTRO LABORAL CON MÓDULO DE CONTROL DE CALIDAD
+
+El Módulo de Registro Laboral puede comunicarse en tiempo real con el Módulo de Control de Calidad para proporcionar información sobre el personal asignado a ciertas tareas de inspección o control.
+
+## MODULOS DE MÓDULO DE MÓDULO DE CONTROL DE CALIDAD CON MÓDULO DE ABASTECIMIENTO
+
+El Módulo de Control de Calidad puede enviar notificaciones en tiempo real al Módulo de Abastecimiento del Almacén al Área de Producción sobre productos que no cumplen con los estándares de calidad, lo que puede afectar la planificación de la producción.
+
+## MODULOS DE MÓDULO DE MÓDULO DE CONTROL DE CALIDAD CON MÓDULO DE ABASTECIMIENTO
+
+El Módulo de Productos que se tiene que llevar o traer del Almacén puede actualizarse en tiempo real a medida que los productos terminados son aprobados por el Módulo de Control de Calidad y están listos para ser transferidos al almacén o enviados al cliente.
+
+# PROCESOS BATCH INVOLUCRADOS
+
+- Los registros de asistencia y actividades laborales del Módulo de Registro Laboral pueden ser procesados en lotes al final de cada jornada laboral para generar informes de productividad y calcular la remuneración del personal.
+
+- La gestión de inventario del Módulo de Productos que se tiene que llevar o traer del Almacén puede realizar procesos batch periódicos para actualizar los niveles de stock, identificar productos obsoletos o próximos a caducar, y generar órdenes de reposición de manera automática.
+
+- Los datos recopilados por el Módulo de Control de Calidad pueden ser analizados en lotes para identificar tendencias, áreas de mejora en los procesos de producción y posibles ajustes en los estándares de calidad.
 
 [Selección de la empresa](SeleccionEmpresa.md)
 
