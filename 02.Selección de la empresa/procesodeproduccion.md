@@ -13,6 +13,8 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 ## FLUJOGRAMA DEL PROCESO DE PRODUCCION
 <img src="produccion-flujo.png" alt="02.Selección de la empresa" style="width: 95%; height: auto;" />
 
+**Hecho en BIZAGI**
+
 
 | Secuencia | Actividad                                          | Descripción         | Responsable  |
 | --------- | -------------------------------------------------- | ------------------- | ------------ |
