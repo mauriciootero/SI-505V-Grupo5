@@ -48,7 +48,7 @@ a. El módulo de registro laboral puede proporcionar datos sobre la disponibilid
 b. El mnódulo de registro laboral registra la actividad de los empleados, incluido el tiempo dedicado a operar maquinaria. Estos datos pueden integrarse con el módulo de control de maquinaria para monitorear la utilización de equipos y optimizar la programación de mantenimiento preventivo.
 c. Los registros laborales pueden incluir información sobre las tareas realizadas por los empleados en relación con el control de calidad, como inspecciones y pruebas. Esta información puede ser útil para el módulo de control de calidad al rastrear la conformidad con los estándares establecidos y facilitar la trazabilidad de los productos.
 
-## MÓDULO DE CONTROL DE CALIDAD : 
+## MÓDULO DE CONTROL DE CALIDAD
 Es una pieza fundamental para garantizar la excelencia en los productos fabricados. Aquí está cómo funcionaría este módulo
  1. Registro de Inspecciones: Permite registrar los resultados de las inspecciones de calidad realizadas en los productos terminados, así como en los materiales y componentes utilizados en el proceso de fabricación. Esto incluye la evaluación de aspectos como la apariencia, la resistencia, la durabilidad y otros criterios de calidad definidos por la empresa.
 2. Control de Procesos: Permite monitorear y controlar los procesos de fabricación para asegurar que se cumplan los estándares de calidad establecidos. Esto puede incluir la implementación de controles en línea durante la producción para detectar y corregir posibles problemas de calidad de manera oportuna.
