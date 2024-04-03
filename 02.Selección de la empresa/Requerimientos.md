@@ -2,7 +2,7 @@
 
 ### 1. Requerimientos funcionales
 
-#### **Caso de uso N°1: Abastecimiento del almacén al área de producción**
+#### **Caso de uso N°1: Abastecimiento de la materia prima**
 
 | **Objetivo:** | Coordinar y gestionar el flujo de materiales desde el almacén hasta las líneas de producción, asegurando que se satisfagan las necesidades de producción de manera oportuna y eficiente. |
 |------|--------|
@@ -33,6 +33,21 @@
 | 5    | El operario selecciona la herramienta que le permite una mayor eficiencia y productividad. Además evalúa si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final. |
 | 6    | Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes situaciones. La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo. |
 | 7    | Finaliza el caso. |
+
+#### **Caso de uso N°3: Registro de los empleados**
+
+| **Objetivo:** | Gestionar de manera eficaz la mano de obra y optimizar los procesos de fabricación. |
+|------|--------|
+| **Descripción:** | Este caso de uso describe el proceso de registro de la información relacionada con el trabajo de los empleados en las líneas de producción de calzado. | 
+| **Actores:** | Operario y Supervisor | 
+| **Precondiciones:** | Se disponen de instrumentos de medición que permiten registrar intervalos de tiempo. | 
+| Paso | Acción |
+| 1    | Se registra la hora de entrada y salida de los empleados en sus jornadas laborales. Esto proporciona un seguimiento preciso del tiempo de trabajo por cada empleado. |
+| 2    | Se monitorea el progreso de las tareas asignadas en tiempo real. Los encargados de este módulo pueden verificar el estado de las acividades en curso y realizar ajustes según sea necesario para garantizar que se cumplan los plazos y objetivos de producción. |
+| 3    | Se asignan tareas especificas a los empleados en función de sus habilidades y la disponibiidad que tienen, con esto se asegura una distribución equitativa del trabajo y una correcta asignación eficiente de recursos humanos en cada turno de producción. |
+| 4    | Se registra el tiempo extra trabajado por los empleados , así como las ausencias de éstos en el trabajo, vacaciones o días libres. También se registran las ausencias no planificadas como enfermedades, con esto se puede garantizar una correcta cobertura adecuada en la línea de producción. |
+| 5    | Se generan informes detallados sobre la asistencia y el rendimiento laboral de los empleados. Esto permite generar información valiosa para evaluar la eficiencia operativa, identificar áreas de mejora y tomar mejores decisiones. |
+| 6    | Finaliza el caso. |
 
 ### 2. Requerimientos de atributos de calidad
 * Seguridad: El sistema debe garantizar la confidencialidad e integridad de los datos almacenados y transmitidos. Para ello, el sistema solo permitirá acceso a los usuarios que están registrados y que cumplan un rol en la empresa, y solicitará que los usuarios proporcionen dos formas de autenticación: una contraseña y un código enviado a su dispositivo móvil.
