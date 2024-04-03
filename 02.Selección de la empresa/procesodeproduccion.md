@@ -29,3 +29,7 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 12        |Almacenar lo que no se va a confeccionar | Implica el almacenamiento adecuado de los productos o materiales que no se van a utilizar inmediatamente en la producción o venta, asegurándose de mantener su integridad y calidad hasta su uso futuro o su disposición final.| bbbb |
 
 ## GLOSARIO
+
+[Selección de la empresa](SeleccionEmpresa.md)
+
+[Regresar al índice](../README.md)
