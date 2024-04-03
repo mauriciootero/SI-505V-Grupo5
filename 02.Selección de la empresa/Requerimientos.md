@@ -31,7 +31,7 @@
 | 3    | El operario se asegura de que la herramienta seleccionada se adapte al tipo de trabajo que realizará. |
 | 4    | El operario debe evaluar si la herramienta es cómoda de usar durante largos períodos y si cumple con las normas de seguridad. |
 | 5    | El operario selecciona la herramienta que le permite una mayor eficiencia y productividad. Además evalúa si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final. |
-| 6    | Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes situaciones. La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo. |
+| 6    | Luego de seleccionar la herramienta, el operario procede a seleccionar el tiempo de inicio así como el tiempo de finalización del uso de la herramienta. |
 | 7    | Finaliza el caso. |
 
 #### **Caso de uso N°3: Registro de los empleados**
