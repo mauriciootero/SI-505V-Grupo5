@@ -28,20 +28,20 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 8         | Revisión de paquete | Implica la inspección y verificación de los productos recibidos, asegurándose de su calidad, cantidad y conformidad con las especificaciones del pedido, y reportando cualquier discrepancia o problema identificado.  | Operario y Supervisor |
 | 9       | Solicitar reeembolso | Consiste en solicitar un reembolso al proveedor por productos o servicios que no cumplan con las especificaciones o que presenten defectos, siguiendo los procedimientos y políticas establecidos por la empresa y el proveedor.  | Encargado de Adquisiciones |
 | 10         | Archivar proveedor | Refiere a la gestión y mantenimiento de registros y documentos relacionados con los proveedores, incluyendo contratos, cotizaciones, pedidos y comunicaciones, con el fin de tener un historial completo y actualizado de las relaciones comerciales. | Gerente de Producción |
-| 11        | Alistar suficiente material para confeccionar | Este proceso implica revisar el inventario de materiales necesarios para la producción de prendas y asegurarse de que haya suficiente cantidad disponible para cumplir con los pedidos.|  |
+| 11        | Alistar suficiente material para confeccionar | Este proceso implica revisar el inventario de materiales necesarios para la producción de prendas y asegurarse de que haya suficiente cantidad disponible para cumplir con los pedidos.| Encargado de adquisiciones |
 | 12        |Almacenar lo que no se va a confeccionar | Implica el almacenamiento adecuado de los productos o materiales que no se van a utilizar inmediatamente en la producción o venta, asegurándose de mantener su integridad y calidad hasta su uso futuro o su disposición final. | Operario y Supervisor.|
-| 13        | Recepcion del pedido al almacen | Cuando se recibe un pedido de materiales, este proceso implica registrar y verificar los productos recibidos en el almacén. | Op|
-| 14        | Guardar el material | mplica almacenar de manera organizada y segura los materiales que no serán utilizados inmediatamente en la producción, pero que se conservarán para proyectos futuros. Esto incluye etiquetar claramente los materiales, controlar el inventario y protegerlos de daños o pérdidas en un lugar accesible dentro del almacén. | Op|
-| 15        | Recepcion de pedido a la produccion | Después de que los materiales necesarios son almacenados, se realiza el proceso de enviar la solicitud de producción al área correspondiente para que se inicien los pasos de fabricación. | Op|
-| 16        | corte de materiales | En este proceso se cortan los materiales según las especificaciones requeridas para la fabricación de las prendas. | Op|
-| 17        | Ensamblaje de piezas | Después del corte de los materiales, se ensamblan las diferentes piezas para formar las prendas. | Op|
-| 18        | Empaquetar las prendas | Una vez que las prendas están ensambladas, se procede a empaquetarlas para su envío o almacenamiento. | Op|
-| 19        | Deshacer el embalaje | Este proceso implica abrir los paquetes recibidos de materiales o productos, para su inspección y utilización en la producción.| Op|
-| 20        | Deshechar los malos cortes| Durante el proceso de corte de materiales, es posible que se produzcan cortes defectuosos o inservibles, los cuales deben ser desechados adecuadamente. | |
-| 21        | Solicitar el material suficiente |Cuando se detecta que hay una escasez de materiales, se realiza una solicitud al área de almacén para reabastecer los suministros.  | |
-| 22        | Recepcion de solicitud | El almacén recibe la solicitud de material y procede a preparar los productos solicitados. | |
-| 23        | Preparado de la solicitud  | En este proceso, el personal del almacén prepara los materiales solicitados para su envío o entrega al área de producción.  | |
-| 24        | Envio de la solicitud | Finalmente, los materiales solicitados son enviados desde el almacén hasta el área de producción para su utilización en el proceso de fabricación de prendas.  | |
+| 13        | Recepcion del pedido al almacen | Cuando se recibe un pedido de materiales, este proceso implica registrar y verificar los productos recibidos en el almacén. | Supervisor|
+| 14        | Guardar el material | mplica almacenar de manera organizada y segura los materiales que no serán utilizados inmediatamente en la producción, pero que se conservarán para proyectos futuros. Esto incluye etiquetar claramente los materiales, controlar el inventario y protegerlos de daños o pérdidas en un lugar accesible dentro del almacén. | Operario|
+| 15        | Recepcion de pedido a la produccion | Después de que los materiales necesarios son almacenados, se realiza el proceso de enviar la solicitud de producción al área correspondiente para que se inicien los pasos de fabricación. | Supervisor |
+| 16        | corte de materiales | En este proceso se cortan los materiales según las especificaciones requeridas para la fabricación de las prendas. | Operario|
+| 17        | Ensamblaje de piezas | Después del corte de los materiales, se ensamblan las diferentes piezas para formar las prendas. | Operario|
+| 18        | Empaquetar las prendas | Una vez que las prendas están ensambladas, se procede a empaquetarlas para su envío o almacenamiento. | Operario |
+| 19        | Deshacer el embalaje | Este proceso implica abrir los paquetes recibidos de materiales o productos, para su inspección y utilización en la producción.| Operario |
+| 20        | Deshechar los malos cortes| Durante el proceso de corte de materiales, es posible que se produzcan cortes defectuosos o inservibles, los cuales deben ser desechados adecuadamente. | Operario |
+| 21        | Solicitar el material suficiente |Cuando se detecta que hay una escasez de materiales, se realiza una solicitud al área de almacén para reabastecer los suministros.  | Encargado de adquisiciones |
+| 22        | Recepcion de solicitud | El almacén recibe la solicitud de material y procede a preparar los productos solicitados. | Supervisor |
+| 23        | Preparado de la solicitud  | En este proceso, el personal del almacén prepara los materiales solicitados para su envío o entrega al área de producción.  | Operario |
+| 24        | Envio de la solicitud | Finalmente, los materiales solicitados son enviados desde el almacén hasta el área de producción para su utilización en el proceso de fabricación de prendas.  | Encargado de adquisiciones |
 
 
 
