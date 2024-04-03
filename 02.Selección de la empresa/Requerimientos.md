@@ -18,6 +18,22 @@
 | 6    | Se distribuyen los materiales necesarios para el área de producción, que en este caso consiste en la confección de ropa. |
 | 7    | Finaliza el caso. |
 
+#### **Caso de uso N°2: Selección de herramientas y maquinarias**
+
+| **Objetivo:** | Garantizar un proceso de producción eficiente y seguro en la empresa mediante el conocimiento del uso de las herramientas y maquinarias, así como de los procesos asociados a éstos. |
+|------|--------|
+| **Descripción:** | Este caso de uso describe el proceso de selección de herramientas y maquinarias por parte del operario. | 
+| **Actor:** | Operario | 
+| **Precondiciones:** | Se disponen de suficientes herramientas y maquinarias para mantener el flujo de producción de la empresa. | 
+| Paso | Acción |
+| 1    | El operario comprende a fondo el proceso de producción. Esto le permitirá elegir las herramientas y maquinarias adecuadas para cada tarea específica. |
+| 2    | El operario conoce las características técnicas de las herramientas y maquinarias disponibles. Esto incluye detalles como la capacidad, velocidad, precisión, facilidad de uso y mantenimiento. |
+| 3    | El operario se asegura de que la herramienta seleccionada se adapte al tipo de trabajo que realizará. |
+| 4    | El operario debe evaluar si la herramienta es cómoda de usar durante largos períodos y si cumple con las normas de seguridad. |
+| 5    | El operario selecciona la herramienta que le permite una mayor eficiencia y productividad. Además evalúa si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final. |
+| 6    | Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes situaciones. La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo. |
+| 7    | Finaliza el caso. |
+
 ### 2. Requerimientos de atributos de calidad
 * Seguridad: El sistema debe garantizar la confidencialidad e integridad de los datos almacenados y transmitidos. Para ello, el sistema solo permitirá acceso a los usuarios que están registrados y que cumplan un rol en la empresa, y solicitará que los usuarios proporcionen dos formas de autenticación: una contraseña y un código enviado a su dispositivo móvil.
 * Escalabilidad: El sistema debe ser capaz de manejar grandes volúmenes de datos y usuarios en tiempo real.
