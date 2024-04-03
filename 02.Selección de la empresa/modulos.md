@@ -86,6 +86,10 @@ El Módulo de Gestión de Productos que se tiene que llevar o traer del Almacén
 
 - Los datos recopilados por el Módulo de Control de Calidad pueden ser analizados en lotes para identificar tendencias, áreas de mejora en los procesos de producción y posibles ajustes en los estándares de calidad.
 
+# DIAGRAMA UML
+
+
+
 [Selección de la empresa](SeleccionEmpresa.md)
 
 [Regresar al índice](../README.md)
