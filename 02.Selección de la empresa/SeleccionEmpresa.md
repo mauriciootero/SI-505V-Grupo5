@@ -11,5 +11,9 @@
 1. [Acerca de Empresa](AcercaEmpresa.md)
 
 2. [Proceso de Producción](procesodeproduccion.md)
+   
+3. [Modulos del Sistema](modulos.md)
+   
+4. [Requerimientos del Sistema](Requerimientos.md)
 
 [Regresar al índice](../README.md)
