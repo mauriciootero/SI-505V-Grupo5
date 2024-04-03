@@ -77,3 +77,9 @@ Este modulo es esencial para garantizar un flujo eficiente de materiales dentro 
 4. Importancia y Objetivos:
    - La gestión de productos en el almacén depende de los fundamentos y principios de la gestión de inventarios.
    - El objetivo principal es asegurar el suministro continuo y oportuno de los materiales y medios de producción necesarios      para mantener los servicios de manera ininterrumpida y rítmica
+
+
+[Selección de la empresa](SeleccionEmpresa.md)
+
+[Regresar al índice](../README.md)
+
