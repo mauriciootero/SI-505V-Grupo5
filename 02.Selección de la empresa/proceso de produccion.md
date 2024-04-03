@@ -24,6 +24,6 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 6         | Envio de pedidos| bb | bb |
 | 7         | Descarga de paquete | bb | Dbb |
 | 8         | Revision de paquete | Sbb   | bbb |
-| 9       | Pedir reeembolso |bbb  | bbbb |
+| 9       | Solicitar reeembolso |bbb  | bbbb |
 | 10         | Archivar proveedor | bbb | bbb |bbbb |
 | 12        |Almacenar lo que no se va a confeccionar | Ebb| bbbb |
