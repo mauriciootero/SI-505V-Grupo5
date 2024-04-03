@@ -36,6 +36,8 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 2. Supervisor: Su definición específica dentro del contexto empresarial puede involucrar detalles sobre sus responsabilidades de supervisión, coordinación y resolución de problemas en el piso de producción.
 3. Piso de Produccion: Es el área física donde se llevan a cabo las actividades de fabricación, ensamblaje, procesamiento y control de calidad de los productos o servicios de una empresa. Es el lugar donde los trabajadores realizan las tareas relacionadas con la producción.
 4. Encargado de Adquisiciones: Es el responsable de gestionar y coordinar la compra de materiales, equipos y suministros necesarios para el proceso de producción de una empresa.
+5. Descarga de paquete: Se refiere al proceso de recibir físicamente los productos o mercancías entregadas por el proveedor, verificando que coincidan con los pedidos realizados y registrando su recepción de manera adecuada.
+6. Proveedor de archivos: Se refiere a la persona o equipo encargado de gestionar y mantener los registros y documentos relacionados con los proveedores de una empresa, incluyendo contratos, cotizaciones, pedidos y comunicaciones.
 
 
 
