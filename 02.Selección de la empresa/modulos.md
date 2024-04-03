@@ -88,7 +88,7 @@ El Módulo de Gestión de Productos que se tiene que llevar o traer del Almacén
 
 # DIAGRAMA UML
 
-
+<img src="DiagramaUML.png" alt="02.Selección de la empresa" style="width: 100%; height: auto;" />
 
 [Selección de la empresa](SeleccionEmpresa.md)
 
