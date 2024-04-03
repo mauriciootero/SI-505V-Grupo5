@@ -27,7 +27,7 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 7         | Descarga de paquete | Refiere al proceso de recepción y descarga física de los paquetes o mercancías entregados por el proveedor, verificando que coincidan con los pedidos realizados y registrando su recepción de manera adecuada. | Operario |
 | 8         | Revisión de paquete | Implica la inspección y verificación de los productos recibidos, asegurándose de su calidad, cantidad y conformidad con las especificaciones del pedido, y reportando cualquier discrepancia o problema identificado.  | Operario y Supervisor |
 | 9       | Solicitar reeembolso | Consiste en solicitar un reembolso al proveedor por productos o servicios que no cumplan con las especificaciones o que presenten defectos, siguiendo los procedimientos y políticas establecidos por la empresa y el proveedor.  | Encargado de Adquisiciones |
-| 10         | Archivar proveedor | Refiere a la gestión y mantenimiento de registros y documentos relacionados con los proveedores, incluyendo contratos, cotizaciones, pedidos y comunicaciones, con el fin de tener un historial completo y actualizado de las relaciones comerciales. | Gerente de Producción |
+| 10         | Archivar proveedor |registrar oficialmente a un proveedor que ha mostrado un historial de incumplimiento o baja calidad en sus entregas. | Gerente de Producción |
 | 11        | Alistar suficiente material para confeccionar | Este proceso implica revisar el inventario de materiales necesarios para la producción de prendas y asegurarse de que haya suficiente cantidad disponible para cumplir con los pedidos.| Encargado de adquisiciones |
 | 12        |Almacenar lo que no se va a confeccionar | Implica el almacenamiento adecuado de los productos o materiales que no se van a utilizar inmediatamente en la producción o venta, asegurándose de mantener su integridad y calidad hasta su uso futuro o su disposición final. | Operario y Supervisor.|
 | 13        | Recepcion del pedido al almacen | Cuando se recibe un pedido de materiales, este proceso implica registrar y verificar los productos recibidos en el almacén. | Supervisor|
@@ -51,13 +51,6 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 3. Encargado de Adquisiciones: Es el responsable de gestionar y coordinar la compra de materiales, equipos y suministros necesarios para el proceso de producción de una empresa.
 4. Descarga de paquete: Se refiere al proceso de recibir físicamente los productos o mercancías entregadas por el proveedor, verificando que coincidan con los pedidos realizados y registrando su recepción de manera adecuada.
 5. Proveedor de archivos: Se refiere a la persona o equipo encargado de gestionar y mantener los registros y documentos relacionados con los proveedores de una empresa, incluyendo contratos, cotizaciones, pedidos y comunicaciones.
-
-
-
-
-
-
-
 
 
 [Selección de la empresa](SeleccionEmpresa.md)
