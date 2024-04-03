@@ -3,37 +3,24 @@
 ## MÓDULO DE ABASTECIMIENTO DEL ALMACEN AL AREA DE PRODUCCIÓN
 
 Este Módulo se encarga de coordinar y gestionar el flujo de materiales desde el almacen hasta las lineas de producción, asegurando que se satisfagan las necesidades de producción de manera oportuna y eficiente, el módulo consistiría en lo siguiente 
-1. planificación de producción y gestion de inventario: este módulo comienza con la planificación de la producción y el analisis de las necesidades de materiales. se determina los niveles de inventario tanto en el almacen como en el area de producción para determinar que materiales son necesarios y a que tiempo se necesitan para que dicha producción no se detenga 
-2. gestión de compra de materiales : el módulo se encargaa de gestionar las compras para adquirir los materiales necesarias para la producción 
-3. selección y evaluación de provedores: se lleva a cabo una selección y evaluación de provedores para garantizar la calidad del producto y el tiempo de entrega, entre otros criterios
-4. recepción y almacen de materiales : cuando ya se adquirió los materiales, dicho modulo se encarga de gestionar la correcta recepción y almacenamiento de este, la cual será guiado por un registro detallado
-5. preparación y distribución de materiales : se distribuyen los materiales necesarios para la confección de ropa
-#interacciones con los demás modulos:
-
+1. Planificación de producción y gestion de inventario: este módulo comienza con la planificación de la producción y el analisis de las necesidades de materiales. se determina los niveles de inventario tanto en el almacen como en el area de producción para determinar que materiales son necesarios y a que tiempo se necesitan para que dicha             producción no se detenga 
+2. Gestión de compra de materiales : el módulo se encargaa de gestionar las compras para adquirir los materiales necesarias para la producción 
+3. Selección y evaluación de provedores: se lleva a cabo una selección y evaluación de provedores para garantizar la calidad del producto y el tiempo de entrega, entre otros criterios
+4. Recepción y almacen de materiales : cuando ya se adquirió los materiales, dicho modulo se encarga de gestionar la correcta recepción y almacenamiento de este, la cual será guiado por un registro detallado
+5. Preparación y distribución de materiales : se distribuyen los materiales necesarios para la confección de ropa
 
 
 ## MÓDULO DE SELECCION DE HERRAMIENTAS Y MAQUINARIAS
 
 El Módulo de Selección de Herramientas y Maquinarias es fundamental para garantizar un proceso de producción eficiente y seguro en la empresa Topitop, especializada en la elaboración de prendas de vestir. A continuación, profundizaremos en los aspectos clave de este módulo:
 
-1. Conocimiento del Proceso y Tareas Específicas:
-  Los operarios deben comprender a fondo el proceso de producción y las etapas en las que intervienen.
-  Esto les permitirá elegir las herramientas y maquinarias adecuadas para cada tarea específica.
-2. Características de las Herramientas y Maquinarias:
-  Los operarios deben conocer las características técnicas de las herramientas y maquinarias disponibles.
-  Esto incluye detalles como la capacidad, velocidad, precisión, facilidad de uso y mantenimiento.
-3. Adaptación al Trabajo:
-  Las herramientas y maquinarias deben adaptarse al tipo de trabajo que se realiza.
-  Por ejemplo, si se trata de costura, la elección de la máquina de coser adecuada es esencial.
-4. Seguridad y Ergonomía:
-  Los operarios deben considerar la seguridad al elegir herramientas.
-  Evaluar si la herramienta es cómoda de usar durante largos períodos y si cumple con las normas de seguridad.
-5. Eficiencia y Productividad:
-  Seleccionar herramientas que permitan una mayor eficiencia y productividad.
-  Evaluar si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final.
-6. Colaboración y Retroalimentación:
-  Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes situaciones.
-  La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo.
+1. Conocimiento del Proceso y Tareas Específicas: Los operarios deben comprender a fondo el proceso de producción y las etapas en las que intervienen. Esto les permitirá elegir las herramientas y maquinarias adecuadas para cada tarea específica.
+2. Características de las Herramientas y Maquinarias: Los operarios deben conocer las características técnicas de las herramientas y maquinarias disponibles. Esto incluye detalles como la capacidad, velocidad, precisión, facilidad de uso y mantenimiento.
+3. Adaptación al Trabajo: Las herramientas y maquinarias deben adaptarse al tipo de trabajo que se realiza. Por ejemplo, si se trata de costura, la elección de la máquina de coser adecuada es esencial.
+4. Seguridad y Ergonomía: Los operarios deben considerar la seguridad al elegir herramientas. Evaluar si la herramienta es cómoda de usar durante largos períodos y si cumple con las normas de seguridad.
+5. Eficiencia y Productividad: Seleccionar herramientas que permitan una mayor eficiencia y productividad. Evaluar si la herramienta reduce el tiempo de trabajo y mejora la calidad del producto final.
+6. Colaboración y Retroalimentación: Los operarios pueden colaborar entre sí y compartir experiencias sobre qué herramientas funcionan mejor en diferentes situaciones. La retroalimentación constante ayuda a mejorar la elección de herramientas con el tiempo.
+
 
 ## MÓDULO DE REGISTRO LABORAL 
 Este módulo se encarga sobre gestionar de manera eficaz la mano de obra y optimizar los procesos de fabricación. este Modulo permite registrar y gesionar la información relacionada con el trabajo de los empleados en las lienas de producción de calzado, se especifica en los siguientes pasos 
@@ -43,10 +30,6 @@ Este módulo se encarga sobre gestionar de manera eficaz la mano de obra y optim
 4. registro de ausencia y tiempo libre: permite registrar el tiempo extra trabajado por los empleados , así como las ausencia de estos en el trabajo; vacaciones o días libres como tambien las ausencias no planificadas como enfermedades, con esto se puede garantizar una correcta cobertura adecuada en la linea de producción.
 5. generación de informes y análisis: El módulo ofrece la generación de informes detallados sobre la asistencia y el rendimiento laboral de los empleados. Con esto generamos una información valiosa para evaluar la eficiencia operativa, identificar areas de mejora y tomar mejores decisiones.
 
-#interacción con otros modulos 
-a. El módulo de registro laboral puede proporcionar datos sobre la disponibilidad y asignación de personal. Esta información puede ser útil para el módulo de abastecimiento al momento de planificar la adquisición de materiales en función de la capacidad de trabajo disponible.
-b. El mnódulo de registro laboral registra la actividad de los empleados, incluido el tiempo dedicado a operar maquinaria. Estos datos pueden integrarse con el módulo de control de maquinaria para monitorear la utilización de equipos y optimizar la programación de mantenimiento preventivo.
-c. Los registros laborales pueden incluir información sobre las tareas realizadas por los empleados en relación con el control de calidad, como inspecciones y pruebas. Esta información puede ser útil para el módulo de control de calidad al rastrear la conformidad con los estándares establecidos y facilitar la trazabilidad de los productos.
 
 ## MÓDULO DE CONTROL DE CALIDAD
 Es una pieza fundamental para garantizar la excelencia en los productos fabricados. Aquí está cómo funcionaría este módulo
@@ -55,7 +38,6 @@ Es una pieza fundamental para garantizar la excelencia en los productos fabricad
 3. Seguimiento de No Conformidades: Permite registrar y gestionar las no conformidades identificadas durante las inspecciones de calidad. Esto incluye el registro de las causas de las no conformidades, así como las acciones correctivas y preventivas implementadas para abordarlas y evitar su recurrencia.
 4. Análisis de Datos: Ofrece la capacidad de analizar los datos recopilados durante las inspecciones de calidad para identificar tendencias, patrones y áreas de mejora en los procesos de fabricación. Esto permite tomar decisiones informadas para optimizar la calidad y la eficiencia operativa.
 5. Definición de Estándares de Calidad: Permite establecer y mantener los estándares de calidad para los productos y materiales. Esto implica definir los criterios de aceptación y rechazo, así como los procedimientos de prueba y los niveles de tolerancia para cada aspecto de la calidad.
-
 
 
 ## MÓDULO DE PRODUCTOS QUE SE TIENE QUE LLEVAR O TRAER DEL ALMACEN
@@ -76,7 +58,12 @@ Este modulo es esencial para garantizar un flujo eficiente de materiales dentro 
 
 4. Importancia y Objetivos:
    - La gestión de productos en el almacén depende de los fundamentos y principios de la gestión de inventarios.
-   - El objetivo principal es asegurar el suministro continuo y oportuno de los materiales y medios de producción necesarios      para mantener los servicios de manera ininterrumpida y rítmica
+   - El objetivo principal es asegurar el suministro continuo y oportuno de los materiales y medios de producción necesarios para mantener los servicios de manera ininterrumpida y rítmica
+
+# INTERACCIONES ENTRE LOS MODULOS
+
+## MODULOS  
+
 
 
 [Selección de la empresa](SeleccionEmpresa.md)
