@@ -2,7 +2,7 @@
 
 ## Misión 
 
-Somos una organización comprometida con la satisfacción de gustos muy exigentes, en el sector de prendas de vestir. Nuestro fin es satisfacer a nuestro público consumidor, mediante un producto diseñado a su medida y gusto personal. Vestir al mundo con prendas de moda casual de alta calidad.
+Somos una organización comprometida con la satisfacción de gustos muy exigentes, en el sector de prendas de vestir. Nuestro fin es satisfacer a nuestro público consumidor, mediante un producto diseñado a su medida y gusto personal, esto a partir de propios resultados estadísticos según las más fuertes demandas de los clientes. Vestir al mundo con prendas de moda casual de alta calidad.
 
 ## Visión 
 
