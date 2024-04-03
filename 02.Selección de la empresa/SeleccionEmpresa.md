@@ -10,6 +10,6 @@
 
 1. [Acerca de Empresa](AcercaEmpresa.md)
 
-2. [Proceso](procesodeproduccion.md)
+2. [Proceso de Producción](procesodeproduccion.md)
 
 [Regresar al índice](../README.md)
