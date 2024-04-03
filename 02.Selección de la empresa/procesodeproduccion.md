@@ -28,7 +28,8 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 8         | Revisión de paquete | Implica la inspección y verificación de los productos recibidos, asegurándose de su calidad, cantidad y conformidad con las especificaciones del pedido, y reportando cualquier discrepancia o problema identificado.  | Operario y Supervisor |
 | 9       | Solicitar reeembolso | Consiste en solicitar un reembolso al proveedor por productos o servicios que no cumplan con las especificaciones o que presenten defectos, siguiendo los procedimientos y políticas establecidos por la empresa y el proveedor.  | Encargado de Adquisiciones |
 | 10         | Archivar proveedor | Refiere a la gestión y mantenimiento de registros y documentos relacionados con los proveedores, incluyendo contratos, cotizaciones, pedidos y comunicaciones, con el fin de tener un historial completo y actualizado de las relaciones comerciales. | Gerente de Producción |
-| 12        | Almacenar lo que no se va a confeccionar | Implica el almacenamiento adecuado de los productos o materiales que no se van a utilizar inmediatamente en la producción o venta, asegurándose de mantener su integridad y calidad hasta su uso futuro o su disposición final.| Operario y Supervisor |
+| 11        | Almacenar lo que no se va a confeccionar | Implica el almacenamiento adecuado de los productos o materiales que no se van a utilizar inmediatamente en la producción o venta, asegurándose de mantener su integridad y calidad hasta su uso futuro o su disposición final.| Operario y Supervisor |
+| 12        | Al | I | Op|
 
 
 ## GLOSARIO
