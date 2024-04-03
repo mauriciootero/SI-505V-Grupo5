@@ -44,7 +44,9 @@ este módulo se encarga sobre gestionar de manera eficaz la mano de obra y optim
 5. generación de informes y análisis: El módulo ofrece la generación de informes detallados sobre la asistencia y el rendimiento laboral de los empleados. Con esto generamos una información valiosa para evaluar la eficiencia operativa, identificar areas de mejora y tomar mejores decisiones.
 
 #interacción con otros modulos 
-Este módulo sirve como registro de los trabajadores, tiene interacción con el módulo de selección de herramientas,módulo de control de calidad y el módulo selección de maquinarias, dicho módulo se encarga de la administración las áreas de los otros módulos.
+a. El módulo de registro laboral puede proporcionar datos sobre la disponibilidad y asignación de personal. Esta información puede ser útil para el módulo de abastecimiento al momento de planificar la adquisición de materiales en función de la capacidad de trabajo disponible.
+b. El mnódulo de registro laboral registra la actividad de los empleados, incluido el tiempo dedicado a operar maquinaria. Estos datos pueden integrarse con el módulo de control de maquinaria para monitorear la utilización de equipos y optimizar la programación de mantenimiento preventivo.
+c. Los registros laborales pueden incluir información sobre las tareas realizadas por los empleados en relación con el control de calidad, como inspecciones y pruebas. Esta información puede ser útil para el módulo de control de calidad al rastrear la conformidad con los estándares establecidos y facilitar la trazabilidad de los productos.
 ## MÓDULO DE CONTROL DE CALIDAD : 
  es una pieza fundamental para garantizar la excelencia en los productos fabricados. Aquí está cómo funcionaría este módulo
  1. Registro de Inspecciones: Permite registrar los resultados de las inspecciones de calidad realizadas en los productos terminados, así como en los materiales y componentes utilizados en el proceso de fabricación. Esto incluye la evaluación de aspectos como la apariencia, la resistencia, la durabilidad y otros criterios de calidad definidos por la empresa.
