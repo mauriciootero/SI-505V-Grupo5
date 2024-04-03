@@ -28,7 +28,7 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 8         | Revisión de paquete | Implica la inspección y verificación de los productos recibidos, asegurándose de su calidad, cantidad y conformidad con las especificaciones del pedido, y reportando cualquier discrepancia o problema identificado.  | Operario y Supervisor |
 | 9       | Solicitar reeembolso | Consiste en solicitar un reembolso al proveedor por productos o servicios que no cumplan con las especificaciones o que presenten defectos, siguiendo los procedimientos y políticas establecidos por la empresa y el proveedor.  | Encargado de Adquisiciones |
 | 10         | Archivar proveedor | Refiere a la gestión y mantenimiento de registros y documentos relacionados con los proveedores, incluyendo contratos, cotizaciones, pedidos y comunicaciones, con el fin de tener un historial completo y actualizado de las relaciones comerciales. | Gerente de Producción |
-| 11        | Alistar suficiente para confeccionar. | |  |
+| 11        | Alistar suficiente material para confeccionar | Este proceso implica revisar el inventario de materiales necesarios para la producción de prendas y asegurarse de que haya suficiente cantidad disponible para cumplir con los pedidos.|  |
 | 12        |Almacenar lo que no se va a confeccionar | Implica el almacenamiento adecuado de los productos o materiales que no se van a utilizar inmediatamente en la producción o venta, asegurándose de mantener su integridad y calidad hasta su uso futuro o su disposición final. | Operario y Supervisor.|
 | 13        | Recepcion del pedido al almacen | I | Op|
 | 14        | Guardar el material | I | Op|
@@ -37,7 +37,7 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 17        | Ensamblaje de piezas | I | Op|
 | 18        | Empaquetar las prendas | I | Op|
 | 19        | Deshacer el embalaje | I | Op|
-| 20        | Deshechar las malas |  | |
+| 20        | Deshechar los malos cortes|  | |
 | 21        | Solicitar el material suficiente |  | |
 | 22        | Recepcion de solicitud |  | |
 | 23        | Preparado de la solicitud  |  | |
