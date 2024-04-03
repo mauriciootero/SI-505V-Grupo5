@@ -33,10 +33,22 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 13        | Recepcion del pedido al almacen | I | Op|
 | 14        | Guardar el material | I | Op|
 | 15        | Recepcion de pedido a la produccion | I | Op|
-| 16        | Al | I | Op|
-| 17        | Al | I | Op|
-| 18        | Al | I | Op|
-| 19        | Al | I | Op|
+| 16        | corte de materiales | I | Op|
+| 17        | Ensamblaje de piezas | I | Op|
+| 18        | Empaquetar las prendas | I | Op|
+| 19        | Deshacer el embalaje | I | Op|
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
+| 19        |  |  | |
 
 
 ## GLOSARIO
