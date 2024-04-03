@@ -49,6 +49,21 @@
 | 5    | Se generan informes detallados sobre la asistencia y el rendimiento laboral de los empleados. Esto permite generar información valiosa para evaluar la eficiencia operativa, identificar áreas de mejora y tomar mejores decisiones. |
 | 6    | Finaliza el caso. |
 
+#### **Caso de uso N°4: Control de calidad**
+
+| **Objetivo:** | Garantizar la excelencia de los productos fabricados. |
+|------|--------|
+| **Descripción:** | Este caso de uso describe el proceso de control de calidad mediante el cumplimiento de estándares de calidad. | 
+| **Actor:** | Gerente de producción | 
+| **Precondiciones:** | Se conocen previamente los estándares de calidad. | 
+| Paso | Acción |
+| 1    | Se realizan inspecciones de calidad en los productos terminados, así como en los materiales y componentes utilizados en el proceso de fabricación y se registran los resultados obtenidos. Esto incluye la evaluación de aspectos como la apariencia, la resistencia, la durabilidad y otros criterios de calidad definidos por la empresa. |
+| 2    | Se monitorean y controlan los procesos de fabricación para asegurar que se cumplan los estándares de calidad establecidos. Esto puede incluir la implementación de controles en línea durante la producción para detectar y corregir posibles problemas de calidad de manera oportuna.|
+| 3    | Se registran y gestionan las no conformidades identificadas durante las inspecciones de calidad. Esto incluye el registro de las causas de las no conformidades, así como las acciones correctivas y preventivas implementadas para abordarlas y evitar su recurrencia. |
+| 4    | Se analizan los datos recopilados durante las inspecciones de calidad para identificar tendencias, patrones y áreas de mejora en los procesos de fabricación. Esto permite tomar decisiones informadas para optimizar la calidad y la eficiencia operativa. |
+| 5    | Finaliza el caso. |
+
+
 ### 2. Requerimientos de atributos de calidad
 * Seguridad: El sistema debe garantizar la confidencialidad e integridad de los datos almacenados y transmitidos. Para ello, el sistema solo permitirá acceso a los usuarios que están registrados y que cumplan un rol en la empresa, y solicitará que los usuarios proporcionen dos formas de autenticación: una contraseña y un código enviado a su dispositivo móvil.
 * Escalabilidad: El sistema debe ser capaz de manejar grandes volúmenes de datos y usuarios en tiempo real.
