@@ -62,19 +62,19 @@ Este modulo es esencial para garantizar un flujo eficiente de materiales dentro 
 
 # INTERACCIONES ENTRE LOS MODULOS
 
-## MODULOS DE MÓDULO DE ABASTECIMIENTO CON MÓDULO DE SELECCION DE HERRAMIENTAS Y MAQUINARIAS
+## MÓDULO DE ABASTECIMIENTO CON MÓDULO DE SELECCION DE HERRAMIENTAS Y MAQUINARIAS
 
 El Módulo de Abastecimiento del Almacén al Área de Producción puede recibir solicitudes de materiales y recursos en tiempo real desde el Módulo de Selección de Herramientas y Maquinarias, en función de las necesidades de producción detectadas.
 
-## MODULOS DE MÓDULO DE REGISTRO LABORAL CON MÓDULO DE CONTROL DE CALIDAD
+## MÓDULO DE REGISTRO LABORAL CON MÓDULO DE CONTROL DE CALIDAD
 
 El Módulo de Registro Laboral puede comunicarse en tiempo real con el Módulo de Control de Calidad para proporcionar información sobre el personal asignado a ciertas tareas de inspección o control.
 
-## MODULOS DE MÓDULO DE MÓDULO DE CONTROL DE CALIDAD CON MÓDULO DE ABASTECIMIENTO
+## MÓDULO DE MÓDULO DE CONTROL DE CALIDAD CON MÓDULO DE ABASTECIMIENTO
 
 El Módulo de Control de Calidad puede enviar notificaciones en tiempo real al Módulo de Abastecimiento del Almacén al Área de Producción sobre productos que no cumplen con los estándares de calidad, lo que puede afectar la planificación de la producción.
 
-## MODULOS DE MÓDULO DE MÓDULO DE CONTROL DE CALIDAD CON MÓDULO DE ABASTECIMIENTO
+## MÓDULO DE MÓDULO DE CONTROL DE CALIDAD CON MÓDULO DE ABASTECIMIENTO
 
 El Módulo de Productos que se tiene que llevar o traer del Almacén puede actualizarse en tiempo real a medida que los productos terminados son aprobados por el Módulo de Control de Calidad y están listos para ser transferidos al almacén o enviados al cliente.
 
