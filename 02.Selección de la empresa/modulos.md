@@ -42,6 +42,7 @@ este módulo se encarga sobre gestionar de manera eficaz la mano de obra y optim
 3. asignación de tareas y turnos: permite asignar tareas especificas a los empleados en función de sus habilidades y la disponibiidad que tienen, con esto asegura una una distribución equitativa del trabajo y una correcta asignación eficiente de recursos humanos en cada turno de producción
 4. registro de ausencia y tiempo libre: permite registrar el tiempo extra trabajado por los empleados , así como las ausencia de estos en el trabajo; vacaciones o días libres como tambien las ausencias no planificadas como enfermedades, con esto se puede garantizar una correcta cobertura adecuada en la linea de producción.
 5. generación de informes y análisis: El módulo ofrece la generación de informes detallados sobre la asistencia y el rendimiento laboral de los empleados. Con esto generamos una información valiosa para evaluar la eficiencia operativa, identificar areas de mejora y tomar mejores decisiones.
+
 #interacción con otros modulos 
 Este módulo sirve como registro de los trabajadores, tiene interacción con el módulo de selección de herramientas,módulo de control de calidad y el módulo selección de maquinarias, dicho módulo se encarga de la administración las áreas de los otros módulos.
 ## MÓDULO DE CONTROL DE CALIDAD : 
