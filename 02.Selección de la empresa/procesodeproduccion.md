@@ -38,10 +38,10 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 18        | Empaquetar las prendas | Una vez que las prendas están ensambladas, se procede a empaquetarlas para su envío o almacenamiento. | Op|
 | 19        | Deshacer el embalaje | Este proceso implica abrir los paquetes recibidos de materiales o productos, para su inspección y utilización en la producción.| Op|
 | 20        | Deshechar los malos cortes| Durante el proceso de corte de materiales, es posible que se produzcan cortes defectuosos o inservibles, los cuales deben ser desechados adecuadamente. | |
-| 21        | Solicitar el material suficiente |  | |
-| 22        | Recepcion de solicitud |  | |
-| 23        | Preparado de la solicitud  |  | |
-| 24        | Envio de la solicitud |  | |
+| 21        | Solicitar el material suficiente |Cuando se detecta que hay una escasez de materiales, se realiza una solicitud al área de almacén para reabastecer los suministros.  | |
+| 22        | Recepcion de solicitud | El almacén recibe la solicitud de material y procede a preparar los productos solicitados. | |
+| 23        | Preparado de la solicitud  | En este proceso, el personal del almacén prepara los materiales solicitados para su envío o entrega al área de producción.  | |
+| 24        | Envio de la solicitud | Finalmente, los materiales solicitados son enviados desde el almacén hasta el área de producción para su utilización en el proceso de fabricación de prendas.  | |
 
 
 
