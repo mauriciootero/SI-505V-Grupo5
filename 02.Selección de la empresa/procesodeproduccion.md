@@ -37,18 +37,12 @@ En el proceso de producción de una empresa textil, la actividad principal es la
 | 17        | Ensamblaje de piezas | I | Op|
 | 18        | Empaquetar las prendas | I | Op|
 | 19        | Deshacer el embalaje | I | Op|
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
-| 19        |  |  | |
+| 20        | Deshechar las malas |  | |
+| 21        | Solicitar el material suficiente |  | |
+| 22        | Recepcion de solicitud |  | |
+| 23        | Preparado de la solicitud  |  | |
+| 24        | Envio de la solicitud |  | |
+
 
 
 ## GLOSARIO
