@@ -24,7 +24,7 @@ Topitop se encarga de hacer diferentes tipo de ropa para diferentes ocaciones, s
 
 6. Ropa de temporada: Colecciones específicas para temporadas como primavera/verano u otoño/invierno, que pueden incluir prendas adecuadas para el clima y las tendencias estacionales.
 
-7. Tallas especiales: Ropa diseñada para personas con tallas específicas, como tallas grandes o tallas pequeñas, para garantizar una oferta inclusiva.
+7. Tallas especiales: Ropa diseñada para personas con tallas específicas, mediante un proceso un poco más extenso pero más personalizado, como tallas grandes o tallas pequeñas, para garantizar una oferta inclusiva.
 
 Y muchas más.
 
