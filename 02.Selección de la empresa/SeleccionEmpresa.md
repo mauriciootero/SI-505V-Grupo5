@@ -4,7 +4,7 @@
 
 **Proceso elegido**: Confección de prendas
 
-**Contacto y su cargo**: Rolando Flores, Gerente de Producción
+**Contacto y su cargo**: Daniel Macavilca, Jefe de ingeniería
 
 ## Otros aparcados
 
