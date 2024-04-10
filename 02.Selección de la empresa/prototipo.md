@@ -13,11 +13,11 @@ El empleado selecciona la máquina necesaria de manera intuitiva, especifica la 
 
 ## Interfaz de Registro:
 El empleado se registra en la aplicacion , seleccionando la actividad a realizar .Asi como la hora de inicio y la hora de acabado
-<img src="interfaz 3.png" alt="03.Entrevistas" style="width: 120%; height: auto;" />
+<img src="interfaz 3.png" alt="02.Selección de la empresa" style="width: 120%; height: auto;" />
 
 ## Seguimiento de Trabajadores:
 El jefe de ingenieria puede corroborar la actividad de los operarios como la fecha ,hora y estado del trabajo realizado 
-<img src="interfaz 4.png" alt="03.Entrevistas" style="width: 120%; height: auto;" />
+<img src="interfaz 4.png" alt="02.Selección de la empresa" style="width: 120%; height: auto;" />
 
 ## Solicitud de herramienta 
-<img src="interfaz 5.png" alt="03.Entrevistas" style="width: 120%; height: auto;" />
+<img src="interfaz 5.png" alt="02.Selección de la empresa" style="width: 120%; height: auto;" />
