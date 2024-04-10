@@ -11,7 +11,7 @@ El empleado selecciona la máquina necesaria de manera intuitiva, especifica la 
 
 <img src="interfaz 2.png" alt="02.Selección de la empresa" style="width: 120%; height: auto;" />
 
-## Interfaz de Registro:
+## Plataforma de Registro:
 El empleado se registra en la aplicacion , seleccionando la actividad a realizar .Asi como la hora de inicio y la hora de acabado
 <img src="interfaz 3.png" alt="02.Selección de la empresa" style="width: 120%; height: auto;" />
 
