@@ -53,7 +53,7 @@
 
 | **Objetivo:** | Garantizar la excelencia de los productos fabricados y mantener un registro detallado de la calidad de los productos o servicios. |
 |------|--------|
-| **Descripción:** | Este caso de uso describe el proceso de control de calidad mediante el cumplimiento de estándares de calidad. | 
+| **Descripción:** | Este caso de uso describe el proceso de control de calidad mediante el cumplimiento de estándares de calidad y la utilización del Módulo de Registro de Calidad para gestionar y mantener un registro detallado de la calidad de los productos | 
 | **Actor:** | Gerente de producción | 
 | **Precondiciones:** | Se conocen previamente los estándares de calidad. | 
 | Paso | Acción |
