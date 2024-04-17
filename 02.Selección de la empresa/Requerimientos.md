@@ -49,9 +49,9 @@
 | 5    | Se generan informes detallados sobre la asistencia y el rendimiento laboral de los empleados. Esto permite generar información valiosa para evaluar la eficiencia operativa, identificar áreas de mejora y tomar mejores decisiones. |
 | 6    | Finaliza el caso. |
 
-#### **Caso de uso N°4: Control de calidad**
+#### **Caso de uso N°4: Gestion de calidad**
 
-| **Objetivo:** | Garantizar la excelencia de los productos fabricados. |
+| **Objetivo:** | Garantizar la excelencia de los productos fabricados y mantener un registro detallado de la calidad de los productos o servicios. |
 |------|--------|
 | **Descripción:** | Este caso de uso describe el proceso de control de calidad mediante el cumplimiento de estándares de calidad. | 
 | **Actor:** | Gerente de producción | 
