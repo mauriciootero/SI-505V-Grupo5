@@ -54,7 +54,7 @@
 | **Objetivo:** | Garantizar la excelencia de los productos fabricados y mantener un registro detallado de la calidad de los productos o servicios. |
 |------|--------|
 | **Descripción:** | Este caso de uso describe el proceso de control de calidad mediante el cumplimiento de estándares de calidad y la utilización del Módulo de Registro de Calidad para gestionar y mantener un registro detallado de la calidad de los productos | 
-| **Actor:** | Gerente de producción | 
+| **Actor:** | Gerente de produccion | 
 | **Precondiciones:** | Se conocen previamente los estándares de calidad. | 
 | Paso | Acción |
 | 1    | Se realizan inspecciones de calidad en los productos terminados, así como en los materiales y componentes utilizados en el proceso de fabricación y se registran los resultados obtenidos. Esto incluye la evaluación de aspectos como la apariencia, la resistencia, la durabilidad y otros criterios de calidad definidos por la empresa. |
